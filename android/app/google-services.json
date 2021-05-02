@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991789044903",
+    "project_id": "instantmessengerapp-9a7e7",
+    "storage_bucket": "instantmessengerapp-9a7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991789044903:android:6637700e199fccedafb782",
+        "android_client_info": {
+          "package_name": "com.example.instant_messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991789044903-7l64jv3k215h2hsq5k69vpua8t8qh83t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WiCFHNEPPvUxdfY5qDu-ghFQGd31yOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991789044903-7l64jv3k215h2hsq5k69vpua8t8qh83t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

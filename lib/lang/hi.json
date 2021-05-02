@@ -1,0 +1,15 @@
+{
+    "home_page": "मुख पृष्ठ",
+    "name": "नाम",
+    "name_hint": "अपना नाम दर्ज करें",
+    "email": "ईमेल",
+    "email_hint": "अपना ईमेल दर्ज करें",
+    "required_field": "आवश्यक क्षेत्र",
+    "submit_info": "जानकारी जमा करें",
+    "about_us": "हमारे बारे में",
+    "settings": "समायोजन",
+    "change_language": "भाषा बदलो",
+    "instant_name": "इंस्टेंट मैसेंजर ऐप",
+    "sign_in": "साइन इन करें"
+
+}

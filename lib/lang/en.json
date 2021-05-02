@@ -1,0 +1,10 @@
+{
+    "name": "Name",
+    "name_hint": "Enter your name",
+    "email": "Email",
+    "email_hint": "Enter your email",
+    "about_us": "About Us",
+    "settings": "Settings",
+    "change_language": "Change Language",
+    "instant_name": "Instant Messenger App"
+}
