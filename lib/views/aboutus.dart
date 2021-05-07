@@ -14,7 +14,7 @@ class _AboutPageState extends State<AboutPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('About Us'),
+        title: Text(getTranslated(context, 'about_us')),
       ),
       body: Container(
         padding: EdgeInsets.all(20),

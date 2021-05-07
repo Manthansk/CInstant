@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instant_messenger_app/classes/language.dart';
+import 'package:instant_messenger_app/helper/language.dart';
 import 'package:instant_messenger_app/localization/language_constants.dart';
 import 'package:instant_messenger_app/main.dart';
 
